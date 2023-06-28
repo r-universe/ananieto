@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "biplotbootGUI"]
 	path = biplotbootGUI
 	url = https://github.com/cran/biplotbootGUI
-	shallow = true
-	registered = true
 [submodule "cncaGUI"]
 	path = cncaGUI
 	url = https://github.com/cran/cncaGUI
-	shallow = true
-	registered = true
 [submodule "multibiplotGUI"]
 	path = multibiplotGUI
 	url = https://github.com/cran/multibiplotGUI
-	shallow = true
-	registered = true
